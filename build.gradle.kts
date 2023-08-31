@@ -100,7 +100,7 @@ dependencies {
     // compileOnly("ink.ptms:Blockdb:1.1.0")
     compileOnly("ink.ptms:Zaphkiel:2.0.14")
     // compileOnly("ink.ptms:Adyeshach:1.5.13-op16")
-    compileOnly("ink.ptms:Sandalphon:1.3.0")
+    compileOnly("ink.ptms:Sandalphon:1.4.1")
     compileOnly("ink.ptms.core:v11900:11900:all-mapped")
     compileOnly("ink.ptms.core:v11400:11400")
     compileOnly("ink.ptms:nms-all:1.0.0")
