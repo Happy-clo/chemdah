@@ -58,7 +58,7 @@ dependencies {
 
     taboo("ink.ptms:um:1.0.0-beta-32")
     compileOnly("ink.ptms:error_reporter:1.0.1")
-    compileOnly("net.milkbowl.vault:Vault:1")
+    compileOnly("net.milkbowl.vault:Vault:1.4.1")
     compileOnly("org.serverct.ersha.dungeon:DungeonPlus:1.1.3")
     compileOnly("com.github.angeschossen:LandsAPI:5.13.0")
     compileOnly("at.pcgamingfreaks:MarriageMaster-API-Bukkit:2.7.0.2")
