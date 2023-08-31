@@ -102,7 +102,7 @@ dependencies {
     // compileOnly("ink.ptms:Adyeshach:1.5.13-op16")
     compileOnly("ink.ptms:Sandalphon:1.3.0")
     compileOnly("ink.ptms.core:v11900:11900:all-mapped")
-    compileOnly("ink.ptms.core:v11400:11400")
+    compileOnly("ink.ptms.core:v11400-minimize:11400-minimize")
     compileOnly("ink.ptms:nms-all:1.0.0")
     implementation(kotlin("stdlib"))
     compileOnly(fileTree("libs"))
