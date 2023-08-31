@@ -5,7 +5,7 @@ Chemdah 是免费的，但我们不提供 jar 文件，你可以通过以下步�
 
 **Windows 平台**
 ```shell
-gradlew.bat clean build
+gradlew.bat build
 ```
 
 **macOS/Linux 平台**
