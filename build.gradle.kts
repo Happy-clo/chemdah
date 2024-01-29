@@ -54,7 +54,7 @@ repositories {
 
 dependencies {
     // adyeshach
-    compileOnly("ink.ptms.adyeshach:all:2.0.0-snapshot-4")
+    compileOnly("ink.ptms.adyeshach:all:2.0.0-snapshot-36")
 
     taboo("ink.ptms:um:1.0.0-beta-32")
     compileOnly("ink.ptms:error_reporter:1.0.1")
