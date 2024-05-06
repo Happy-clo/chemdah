@@ -60,7 +60,7 @@ dependencies {
     compileOnly("ink.ptms:error_reporter:1.0.1")
     compileOnly("net.milkbowl.vault:Vault:1")
     compileOnly("org.serverct.ersha.dungeon:DungeonPlus:1.1.3")
-    compileOnly("com.github.angeschossen:LandsAPI:5.13.0")
+    compileOnly("com.github.angeschossen:LandsAPI:7.1.12")
     compileOnly("at.pcgamingfreaks:MarriageMaster-API-Bukkit:2.7.0.2")
     compileOnly("me.badbones69:crazycrates-plugin:1.10")
     compileOnly("com.sk89q.worldedit:WorldEdit:7")
