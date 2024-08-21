@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     `java-library`
     `maven-publish`
-    id("io.izzel.taboolib") version "1.51"
+    id("io.izzel.taboolib") version "2.0.13"
     id("org.jetbrains.kotlin.jvm") version "1.5.31"
     id("org.jetbrains.dokka") version "1.6.0"
 }
