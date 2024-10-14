@@ -18,7 +18,7 @@ gradlew.bat build
 **[Blockdb [Download]](http://ptms.ink:8081/repository/maven-releases/ink/ptms/Blockdb/1.1.0/Blockdb-1.1.0.jar)**
 > [!CAUTION]  
 > This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
-# Statement
+# 免责声明
 
 > [!CAUTION]  
 > 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。
