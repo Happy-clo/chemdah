@@ -56,7 +56,7 @@ dependencies {
     // adyeshach
     compileOnly("ink.ptms.adyeshach:all:2.0.0-snapshot-4")
 
-    taboo("ink.ptms:um:1.0.0-beta-32")
+    taboo("ink.ptms:um:1.1.2")
     compileOnly("ink.ptms:error_reporter:1.0.1")
     compileOnly("net.milkbowl.vault:Vault:1")
     compileOnly("org.serverct.ersha.dungeon:DungeonPlus:1.1.3")
