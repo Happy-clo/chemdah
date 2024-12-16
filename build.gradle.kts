@@ -106,7 +106,7 @@ dependencies {
     compileOnly("ink.ptms:nms-all:1.0.0")
     implementation(kotlin("stdlib"))
     compileOnly(fileTree("libs"))
-    dokkaHtmlPlugin("org.jetbrains.dokka:kotlin-as-java-plugin:1.8.20")
+    dokkaHtmlPlugin("org.jetbrains.dokka:kotlin-as-java-plugin:2.0.0")
 }
 
 tasks.withType<JavaCompile> {
